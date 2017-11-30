@@ -235,6 +235,18 @@ textarea:focus {
 input[type="tel"]:focus {
     border: none;
 }
+/*-- go baack --*/
+#back {
+    background-color: #ff0000d1;
+    color: #ffffffd1;
+    border-radius: 10px;
+    box-shadow: 0 12px 16px 0 rgba(255, 251, 251, 0.75), 0 17px 50px 0 rgba(255, 255, 255, 0.2);
+    width: 90%;
+    height: 40px;
+    font-size: xx-large;
+    position: relative;
+    bottom: 45px;
+}
 /*-- input-effect --*/
 .styled-input.agile-styled-input-top {
     margin-top: 0;
